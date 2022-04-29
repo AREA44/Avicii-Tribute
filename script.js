@@ -19,7 +19,7 @@ Amplitude.init({
       artist: "Avicii, Syn Cole",
       album: "Single",
       url: "./music/track/Bright Lights (Version 2).mp3",
-      cover_art_url: "./music/cover/Bright Lights (Version 1).jpg",
+      cover_art_url: "./music/cover/Bright Lights (Version 2).jpg",
     },
     {
       name: "Broken Heart & Hennessy",
