@@ -50,13 +50,6 @@ Amplitude.init({
       cover_art_url: "./music/cover/Chained.jpg",
     },
     {
-      name: "Deamons",
-      artist: "Avicii, Bonn",
-      album: "Single",
-      url: "./music/track/Deamons.mp3",
-      cover_art_url: "./music/cover/Deamons.jpg",
-    },
-    {
       name: "Enough is Enough",
       artist: "Avicii",
       album: "Single",
