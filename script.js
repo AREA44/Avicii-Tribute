@@ -92,11 +92,11 @@ Amplitude.init({
       cover_art_url: "./music/cover/I'll be Gone.jpg",
     },
     {
-      name: "In Your Arms",
-      artist: "Avicii, Frakz Room feat. Agnes, Vargas & Lagola",
+      name: "Unbreakable",
+      artist: "Avicii, BUNT feat. Sandro Cavazza & Clarece Coffee Jr",
       album: "Single",
-      url: "./music/track/In Your Arms.mp3",
-      cover_art_url: "./music/cover/In Your Arms.jpg",
+      url: "./music/track/Unbreakable.mp3",
+      cover_art_url: "./music/cover/Unbreakable.jpg",
     },
     {
       name: "Live Your Life",
@@ -216,13 +216,6 @@ Amplitude.init({
       album: "Single",
       url: "./music/track/UMF 2013.flac",
       cover_art_url: "./music/cover/UMF 2013.jpg",
-    },
-    {
-      name: "Unbreakable",
-      artist: "Avicii, BUNT feat. Sandro Cavazza & Clarece Coffee Jr",
-      album: "Single",
-      url: "./music/track/Unbreakable.mp3",
-      cover_art_url: "./music/cover/Unbreakable.jpg",
     },
   ],
 });
